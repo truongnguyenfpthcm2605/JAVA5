@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "NotNull.staff3.id",
+    "type": "java.lang.String",
+    "description": "A description for 'NotNull.staff3.id'"
+  },
+  {
+    "name": "NotBlank.staff3.fullname",
+    "type": "java.lang.String",
+    "description": "A description for 'NotBlank.staff3.fullname'"
+  },
+  {
+    "name": "NotEmpty.staff3.email",
+    "type": "java.lang.String",
+    "description": "A description for 'NotEmpty.staff3.email'"
+  },
+  {
+    "name": "NotBlank.staff3.fullname",
+    "type": "java.lang.String",
+    "description": "A description for 'NotBlank.staff3.fullname'"
+  },
+  {
+    "name": "NotBlank.staff3.fullname",
+    "type": "java.lang.String",
+    "description": "A description for 'NotBlank.staff3.fullname'"
+  },
+  {
+    "name": "NotBlank.staff3.fullname",
+    "type": "java.lang.String",
+    "description": "A description for 'NotBlank.staff3.fullname'"
+  },
+  {
+    "name": "NotBlank.staff3.fullname",
+    "type": "java.lang.String",
+    "description": "A description for 'NotBlank.staff3.fullname'"
+  }
+]}

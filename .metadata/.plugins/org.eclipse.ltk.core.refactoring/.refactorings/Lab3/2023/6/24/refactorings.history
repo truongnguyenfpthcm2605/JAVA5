@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MessagesConfig.java&apos; to &apos;Assgiment-HTMobile/src/main/java/com.poly.app.config&apos;&#x0D;&#x0A;- Original project: &apos;Lab3&apos;&#x0D;&#x0A;- Destination element: &apos;Assgiment-HTMobile/src/main/java/com.poly.app.config&apos;&#x0D;&#x0A;- Original element: &apos;com.poly.app.config.MessagesConfig.java&apos;" description="Copy compilation unit" destination="=Assgiment-HTMobile/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.poly.app.config" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.poly.app.config{MessagesConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1686505591735" units="1" version="1.0"/>
+</session>
